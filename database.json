@@ -1,0 +1,44 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode"
+        },
+        {
+            "id": 2,
+            "title": "webpack",
+            "author": "typicode"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    "contacts": [
+        {
+            "id": 1,
+            "name": "name1",
+            "email": "email1@example.com",
+            "phone": "+1234567890"
+        },
+        {
+            "id": 2,
+            "name": "name2",
+            "email": "email2@example.com",
+            "phone": "+0987654321"
+        },
+        {
+            "id": 3,
+            "name": "name3",
+            "email": "email3@example.com",
+            "phone": "+5678901234"
+        }
+    ]
+}
